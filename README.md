@@ -1,6 +1,14 @@
 # Class Repo: PHP II - Jun - 2021
 
+## TODO
+Example of using `__call()` to implement a "plugin" architecture
+
 ## Homework
+* For Fri 11 Jun 2021
+  * Lab: Magic Methods
+    * See: https://www.php.net/manual/en/language.oop5.magic.php
+  * Lab: Abstract Classes
+  * Lab: Interfaces
 * For Wed 9 Jun 2021
   * Lab: Namespace
   * Lab: Create a Class
